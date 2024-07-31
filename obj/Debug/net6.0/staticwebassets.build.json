@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qYE1QQCFct3BqDZwFysqsCdoJO7hOpYP2lhQaIxCYQw=",
+  "Source": "WEB_API_MIN",
+  "BasePath": "_content/WEB_API_MIN",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chico\\OneDrive\\Documentos\\PROYECTOS PROGRAMACION\\WEB_API_MIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6402225D-46EF-491E-8691-2BEFC61B1FEB}|WEB_API_MIN.csproj|c:\\users\\chico\\onedrive\\documentos\\proyectos programacion\\web_api_min\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6402225D-46EF-491E-8691-2BEFC61B1FEB}|WEB_API_MIN.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6402225D-46EF-491E-8691-2BEFC61B1FEB}|WEB_API_MIN.csproj|c:\\users\\chico\\onedrive\\documentos\\proyectos programacion\\web_api_min\\models\\informacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6402225D-46EF-491E-8691-2BEFC61B1FEB}|WEB_API_MIN.csproj|solutionrelative:models\\informacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6402225D-46EF-491E-8691-2BEFC61B1FEB}|WEB_API_MIN.csproj|c:\\users\\chico\\onedrive\\documentos\\proyectos programacion\\web_api_min\\data\\datosbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6402225D-46EF-491E-8691-2BEFC61B1FEB}|WEB_API_MIN.csproj|solutionrelative:data\\datosbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6402225D-46EF-491E-8691-2BEFC61B1FEB}|WEB_API_MIN.csproj|c:\\users\\chico\\onedrive\\documentos\\proyectos programacion\\web_api_min\\migrations\\20240731053505_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6402225D-46EF-491E-8691-2BEFC61B1FEB}|WEB_API_MIN.csproj|solutionrelative:migrations\\20240731053505_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6402225D-46EF-491E-8691-2BEFC61B1FEB}|WEB_API_MIN.csproj|c:\\users\\chico\\onedrive\\documentos\\proyectos programacion\\web_api_min\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6402225D-46EF-491E-8691-2BEFC61B1FEB}|WEB_API_MIN.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240731053505_firstmigration.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\OneDrive\\Documentos\\PROYECTOS PROGRAMACION\\WEB_API_MIN\\Migrations\\20240731053505_firstmigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240731053505_firstmigration.cs",
+              "ToolTip": "C:\\Users\\chico\\OneDrive\\Documentos\\PROYECTOS PROGRAMACION\\WEB_API_MIN\\Migrations\\20240731053505_firstmigration.cs",
+              "RelativeToolTip": "Migrations\\20240731053505_firstmigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:36:07.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\OneDrive\\Documentos\\PROYECTOS PROGRAMACION\\WEB_API_MIN\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\chico\\OneDrive\\Documentos\\PROYECTOS PROGRAMACION\\WEB_API_MIN\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAkwEUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:03:51.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chico\\OneDrive\\Documentos\\PROYECTOS PROGRAMACION\\WEB_API_MIN\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\chico\\OneDrive\\Documentos\\PROYECTOS PROGRAMACION\\WEB_API_MIN\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T04:59:22.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatosBD.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\OneDrive\\Documentos\\PROYECTOS PROGRAMACION\\WEB_API_MIN\\Data\\DatosBD.cs",
+              "RelativeDocumentMoniker": "Data\\DatosBD.cs",
+              "ToolTip": "C:\\Users\\chico\\OneDrive\\Documentos\\PROYECTOS PROGRAMACION\\WEB_API_MIN\\Data\\DatosBD.cs",
+              "RelativeToolTip": "Data\\DatosBD.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvwsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T04:55:25.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Informacion.cs",
+              "DocumentMoniker": "C:\\Users\\chico\\OneDrive\\Documentos\\PROYECTOS PROGRAMACION\\WEB_API_MIN\\Models\\Informacion.cs",
+              "RelativeDocumentMoniker": "Models\\Informacion.cs",
+              "ToolTip": "C:\\Users\\chico\\OneDrive\\Documentos\\PROYECTOS PROGRAMACION\\WEB_API_MIN\\Models\\Informacion.cs",
+              "RelativeToolTip": "Models\\Informacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T04:53:33.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
